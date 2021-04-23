@@ -40,7 +40,7 @@ body {
 .Bcontainer {
   text-align: center;
   margin: 0 auto;
-  width: 270px;
+  width: 300px;
   padding-top: 20px;
 }
 
@@ -82,7 +82,7 @@ a {
   left: -8.5px;
 }
 
-#cad {
+#sen {
   position: relative;
   right: -120px;
   top: -33px;
